@@ -13,9 +13,6 @@ The address of the variable you’re working with is assigned to the pointer var
 2. Return multiple values from a function
 3. Alter original data
 4. Passing data between functions efficently
-5. Optimzing data memory
-6. Efficient data structures
-7. Enables call by reference
 
 ### Disadvantages of pointers
 1. Pointers are a bit difficult to understand.
@@ -69,7 +66,8 @@ int main()
 
 ## Code Output: 
 
-![](https://github.com/Sundar13905/Pointers/blob/main/pointer_output.png)
+![image](https://github.com/user-attachments/assets/793ad140-8836-4580-80fa-9d435e869bd8)
+
 
 ## Conclusion: -
 In this experiment we learnt the basics of pointers
